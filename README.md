@@ -4,8 +4,6 @@
 
 This is a simple Movie App built using React. The application allows users to search for movies, view results, and add movies to their favorites list.
 
-This project was created by following a YouTube tutorial
-
 ---
 
 ## 🚀 Features
