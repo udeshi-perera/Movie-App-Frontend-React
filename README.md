@@ -53,10 +53,3 @@ npm start
 * Managing local storage
 
 ---
-
-## 🙌 Acknowledgement
-
-This project was built by following a YouTube tutorial and is intended for learning and practice purposes.
-
-[Watch Tutorial](https://www.youtube.com/watch?v=G6D9cBaLViA)
----
